@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+body {
+font-family: 'Roboto', sans-serif;
+}
+.qrcode {
+   text-align: center; 
+}
+h1 {
+    text-align: center;
+    font-size: 4REM;
+   
+}
+h2 {
+    font-size: 3rem;
+    text-align: center;
+}
+.applaudir {
+    margin: 120rem 0 0 0;
+}
