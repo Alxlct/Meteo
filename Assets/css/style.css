@@ -7,13 +7,33 @@ font-family: 'Roboto', sans-serif;
 }
 h1 {
     text-align: center;
-    font-size: 4REM;
+    font-size: 8REM;
    
 }
 h2 {
-    font-size: 3rem;
+    font-size: 5rem;
     text-align: center;
 }
 .applaudir {
     margin: 120rem 0 2rem 0;
+}
+.bodin {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: auto;
+  width: auto;
+}
+.laborde {
+    height: 60rem;
+    width: 60rem;
+}
+.code {
+    height: 40rem;
+    width: 40rem;
+}
+.applause {
+    height: 100rem;
+    width: 100rem;
+    margin-bottom: 10rem;
 }
